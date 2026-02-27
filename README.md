@@ -3,7 +3,7 @@
 **Your Personal Salary & Budget Companion.**  
 Paylance is a sleek, offline-first application designed to give you absolute clarity over your monthly salary, budget allocations, and savings goals.
 
-<img width="656" height="368" alt="Screenshot 2026-02-27 125741" src="https://github.com/user-attachments/assets/f4de839e-2d45-4c3f-acb9-e7e5b5d6ee1b" />
+<img width="676" height="388" alt="Screenshot 2026-02-27 125741" src="https://github.com/user-attachments/assets/f4de839e-2d45-4c3f-acb9-e7e5b5d6ee1b" />
 
 ## Premium Features
 
